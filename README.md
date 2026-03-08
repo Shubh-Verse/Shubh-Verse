@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cra-zyprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="cra-zyprogrammer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubh-Verse&label=Profile%20views&color=0e75b6&style=flat" alt="Shubh-Verse" /> </p>
 
 - 🔭 .I’m currently working on **Library Management System Mobile App**
 
