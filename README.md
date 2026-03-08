@@ -41,9 +41,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubh-Verse&show_icons=true&locale=en&layout=compact" alt="Shubh-Verse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cra-zyprogrammer&show_icons=true&locale=en" alt="cra-zyprogrammer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubh-Verse&show_icons=true&locale=en" alt="Shubh-Verse" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cra-zyprogrammer&" alt="cra-zyprogrammer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh-Verse&" alt="Shubh-Verse" /></p>
 
 
 
