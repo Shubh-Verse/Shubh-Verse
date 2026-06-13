@@ -21,7 +21,9 @@
 
 - 📫 How to reach me **yadavshubhamsingh00@gmail.com**
   
-- 💻 It's my official website to reach more **https://Shubh-Verse.github.io/Shubham-Singh/**
+- 💻 It's my oldage website to reach **https://Shubh-Verse.github.io/Shubham-Singh/**
+  
+- - 💻 It's my official website to reach more **https://shubh-vers.vercel.app/)**
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/shubham-singh-b78b72227**
 
